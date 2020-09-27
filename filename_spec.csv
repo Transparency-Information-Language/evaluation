@@ -1,0 +1,5 @@
+name,filename
+.angular-cli.json,Angular_CLI_Configuration.json
+apple-app-site-association,Apple_Universal_Link__App_Site_Association.json
+appsscript.json,JSON_schema_for_Google_Apps_Script_manifest_files.json
+tilt,tilt.json

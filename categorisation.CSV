@@ -1,0 +1,5 @@
+name,category
+.angular-cli.json,conf
+apple-app-site-association,app
+appsscript.json,data
+tilt,meta
