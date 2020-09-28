@@ -1,0 +1,5 @@
+Category,add_prop_count,all_of_count,any_of_count,array_count,str_count,enum_count,mult_of_count,not_count,number_count,pattern_count,required_count,unique_items_count,value_restriction_count,boolean_count,nulltype_count,object_count,ref_count,depth_schema,depth_resolvedTree,fan_in,fan_out,has_recursion,min_cycle_len,width,reachability,blow_up
+app,0,0,0,2,2,1,0,0,0,0,2,0,0,0,0,3,0,10,10,1,3,False,0,15,True,1.0
+meta,32,0,21,21,88,1,0,0,2,16,43,0,15,16,0,32,0,20,20,1,14,False,0,1349,True,1.0
+data,0,0,0,7,28,5,0,0,0,0,2,0,0,1,0,10,0,9,9,1,13,False,0,121,True,1.0
+conf,45,0,2,23,130,13,0,4,5,2,20,0,2,118,1,63,36,13,26,3,46,False,0,906,False,5.4081346423562415
